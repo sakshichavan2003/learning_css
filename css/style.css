@@ -1,0 +1,46 @@
+h4{
+    font-size: 40px;
+    color:blueviolet;
+    background-color: cadetblue;
+}
+.txt_uppercase{
+    text-transform: uppercase;
+    color: green;
+}
+.txt_lowercase{
+    text-transform: lowercase;
+    color: blue;
+}
+.txt_capitalize{
+    text-transform: capitalize;
+    color: brown;
+}
+.txt_word_space{
+    word-spacing: 30px;
+    color:blueviolet;
+
+}
+.txt_letter_space{
+    letter-spacing: 40px;
+    color: red;
+ 
+}
+.txt_center{
+    text-align: center;
+}
+.txt_right{
+    text-align: right;
+}
+.txt_line_height{
+    line-height: 30px;
+    text-indent: 50px;
+}
+.txt_overline{
+    text-decoration: overline;
+}
+.txt_line_th{
+    text-decoration: line-through;
+}
+.txt_underline{
+    text-decoration: underline;
+}
